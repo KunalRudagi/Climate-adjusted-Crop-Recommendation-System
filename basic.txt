@@ -1,0 +1,11 @@
+crop-recommendation/
+├── app.py
+├── crop_model.pkl
+├── templates/
+│   ├── login.html
+│   ├── register.html
+│   ├── profile.html
+│   ├── crop_recommendation.html
+│   ├── result.html
+├── static/
+│   ├── style.css
